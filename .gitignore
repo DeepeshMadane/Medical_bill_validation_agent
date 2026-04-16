@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.env
+venv/
+myenv/
+
+# Data (IMPORTANT)
+data/
+*.xlsx
+*.csv
+
+# Vector DB / ML
+rag/
+*.db
+
+# Temp
+temp_*
+*.log
+
+# OS
+.DS_Store

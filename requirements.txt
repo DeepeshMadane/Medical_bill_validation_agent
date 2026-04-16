@@ -1,0 +1,51 @@
+# -------------------------------
+# API
+# -------------------------------
+fastapi
+uvicorn
+python-multipart
+
+# -------------------------------
+# Core Data
+# -------------------------------
+pandas
+numpy
+openpyxl
+
+# -------------------------------
+# LangChain / Agent
+# -------------------------------
+langchain
+langchain-community
+langchain-core
+langgraph
+
+# -------------------------------
+# Embeddings / Vector DB
+# -------------------------------
+sentence-transformers
+chromadb
+
+# -------------------------------
+# OCR
+# -------------------------------
+pytesseract
+Pillow
+opencv-python
+
+# -------------------------------
+# PDF (optional but fine)
+# -------------------------------
+pymupdf
+pdfplumber
+
+# -------------------------------
+# LLM / API calls
+# -------------------------------
+requests
+
+# -------------------------------
+# Utilities
+# -------------------------------
+python-dotenv
+tqdm
