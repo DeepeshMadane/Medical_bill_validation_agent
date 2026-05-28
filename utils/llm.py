@@ -1,7 +1,7 @@
 import requests
 
 def generate_gemini_api(prompt, text=""):
-    url = "http://192.168.0.89:9004/generate_text_PIMS"
+    url = "your_url"
     data = {"prompt": prompt, "ocr_text": text}
 
     try:
